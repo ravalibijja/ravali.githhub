@@ -25,7 +25,6 @@ Sample Output 0
 Explanation 0
 
 In the given string:
-
  occurs two times.
  and  occur one time each.
 The remaining digits  and  don't occur at all.
